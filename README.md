@@ -1,5 +1,9 @@
 # 20221129 @ 中華電信
 
+## 講義連結： 
+
+* https://ppt.cc/fIDoXx
+
 ## 投影片及相關連結：
 
 * [Python基礎](https://docs.google.com/presentation/d/140dHWSexhiarrdZVQ1Rf466LgfAlBQz2CPRtrToCe2Q/edit?usp=sharing)
